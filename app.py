@@ -1,3 +1,6 @@
+# Code snippet provided by christovic (Jun 4, 2023).
+# Source: https://github.com/iebb/F1WebViewer-SelfHosted/issues/13#issuecomment-1575528799
+
 import logging
 import sys
 
